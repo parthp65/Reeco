@@ -213,7 +213,7 @@ const OrderDetails = () => {
                     <td>
                       <Quantity>{item.quantity}</Quantity> x 6*1LB
                     </td>
-                    <td>{((item.quantity * item.price) / 6).toFixed(2)}</td>
+                    <td>${((item.quantity * item.price) / 6).toFixed(2)}</td>
                     <td>
                       <StatusWrapper>
                         {item.status && (
