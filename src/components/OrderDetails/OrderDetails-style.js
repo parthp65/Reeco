@@ -109,6 +109,7 @@ const Table = styled.table`
   border-collapse: collapse;
   border-radius: 1rem;
   width: 100%;
+  overflow: hidden;
   td {
     border: 1px solid #dddddd;
     text-align: left;
@@ -122,7 +123,6 @@ const Table = styled.table`
   th,
   td {
     padding: 1em;
-    border-bottom: 2px solid #5b5b5b;
   }
   tbody td {
     color: #5b5b5b;
@@ -177,6 +177,8 @@ const ItemsWrapper = styled.div`
 
 const TableWrapper = styled.div`
   margin-top: 3rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 18px;
 `;
 
 const ProductWrapper = styled.div`
