@@ -1,4 +1,5 @@
 const LOGO = "https://reeco.io/assets/logo.44b75468.svg";
+const BASE_URL = "http://localhost:3000/orderData.json";
 const REASON_DATA = [
   {
     id: 1,
@@ -26,4 +27,4 @@ const STATUS = {
   MISSING: "Missing",
   MISSING_URGENT: "Missing-Urgent",
 };
-export { LOGO, REASON_DATA, STATUS };
+export { LOGO, REASON_DATA, STATUS, BASE_URL };
