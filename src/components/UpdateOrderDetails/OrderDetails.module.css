@@ -1,0 +1,15 @@
+.orderDetailsWrapper {
+  :global(.ant-modal-header) {
+    border-radius: 8px;
+  }
+  :global(.ant-modal-header .ant-modal-title) {
+    font-size: 1.5rem;
+  }
+  :global(.ant-modal-content) {
+    border-radius: 8px;
+    font-family: var(--font-primary);
+  }
+  :global(.ant-modal-body) {
+    padding: 2rem;
+  }
+}

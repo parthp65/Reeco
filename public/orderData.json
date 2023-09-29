@@ -1,0 +1,234 @@
+{
+    "orders": [
+        {
+            "orderId": "32457ABC",
+            "supplier": "East cosat fruits & vegetables ",
+            "shippingDate": "Thu, Feb 10",
+            "total": "15,028.3",
+            "categories": [
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg"
+            ],
+            "department": "300-44-678",
+            "status": "Awaiting your approval",
+            "orderDetails": [
+                {
+                    "id": "8fa48f8e-1a11-4ca3-83ed-703862620bbc",
+                    "productName": "Chicken Breast Fillets Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+                    "brand": "Hormel black labelmany",
+                    "price": 60.67,
+                    "quantity": 0,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "040afc11-b7ba-42ff-a4dd-9a48247e5ae6",
+                    "productName": "Fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "StarKist",
+                    "price": 50.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "41951d48-54d0-4997-852e-88b449d724b8",
+                    "productName": "Lettuce Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 20.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "1c4bc229-43c0-4400-8fcc-1e2d63c3ce4c",
+                    "productName": "Tuan fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Crown Prince",
+                    "price": 20.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "59d3644d-4501-4a1c-9489-d35bfca78b31",
+                    "productName": "Avacado Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 40.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                }
+            ]
+        },
+        {
+            "orderId": "32457DEF",
+            "supplier": "East cosat fruits & vegetables",
+            "shippingDate": "Thu, Feb 10",
+            "total": "15,028.3",
+            "categories": [
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg"
+            ],
+            "department": "300-44-678",
+            "status": "Awaiting your approval",
+            "orderDetails": [
+                {
+                    "id": "8fa48f8e-1a11-4ca3-83ed-703862620bbc",
+                    "productName": "Chicken Breast Fillets Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+                    "brand": "Hormel black labelmany",
+                    "price": 60.67,
+                    "quantity": 0,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "040afc11-b7ba-42ff-a4dd-9a48247e5ae6",
+                    "productName": "Fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "StarKist",
+                    "price": 50.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "41951d48-54d0-4997-852e-88b449d724b8",
+                    "productName": "Lettuce Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 20.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "1c4bc229-43c0-4400-8fcc-1e2d63c3ce4c",
+                    "productName": "Tuan fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Crown Prince",
+                    "price": 20.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "59d3644d-4501-4a1c-9489-d35bfca78b31",
+                    "productName": "Avacado Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 40.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                }
+            ]
+        },
+        {
+            "orderId": "32457PQR",
+            "supplier": "East cosat fruits & vegetables",
+            "shippingDate": "Thu, Feb 10",
+            "total": "15,028.3",
+            "categories": [
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg",
+                "egg"
+            ],
+            "department": "300-44-678",
+            "status": "Awaiting your approval",
+            "orderDetails": [
+                {
+                    "id": "8fa48f8e-1a11-4ca3-83ed-703862620bbc",
+                    "productName": "Chicken Breast Fillets Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+                    "brand": "Hormel black labelmany",
+                    "price": 60.67,
+                    "quantity": 0,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "040afc11-b7ba-42ff-a4dd-9a48247e5ae6",
+                    "productName": "Fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "StarKist",
+                    "price": 50.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "41951d48-54d0-4997-852e-88b449d724b8",
+                    "productName": "Lettuce Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 20.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "1c4bc229-43c0-4400-8fcc-1e2d63c3ce4c",
+                    "productName": "Tuan fish Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Crown Prince",
+                    "price": 20.67,
+                    "quantity": 10,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Avocado Hass.jpg"
+                },
+                {
+                    "id": "59d3644d-4501-4a1c-9489-d35bfca78b31",
+                    "productName": "Avacado Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 40.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "59d3644d-4501-4a1c-9489-d35bfca799ad",
+                    "productName": "Avacado Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 40.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                },
+                {
+                    "id": "59d3644d-4501-4a1c-9489-d35bfca7545a",
+                    "productName": "Avacado Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "brand": "Hormel black labelmany",
+                    "price": 40.67,
+                    "quantity": 5,
+                    "total": 0,
+                    "status": "",
+                    "imgSrc": "/Apple Green Smith.png"
+                }
+            ]
+        }
+    ]
+}
